@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="is-odd-llm",
-    version="0.0.1",
+    version="0.1.0",
     author="yenslife",
     author_email="77geo5rge6@gmail.com",
     description="A Python package using LLM to determine if a number is odd",
