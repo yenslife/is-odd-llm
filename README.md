@@ -1,8 +1,12 @@
 # is-odd-llm
 
-LLM is so powerful 💪, let's use it to check if a number is odd.
+[繁體中文](README_zh-TW.md)
+
+LLM is so powerful 💪, let's use it to check if a number is odd. 🫣
 
 Inspired by [is-odd-ai](https://github.com/rhettlunn/is-odd-ai). So I build a Python version of it.
+
+![demo](https://imgur.com/jmtOIAK.png)
 
 ## Install
 

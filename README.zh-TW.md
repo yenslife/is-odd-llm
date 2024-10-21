@@ -1,9 +1,10 @@
 # is-odd-llm
 
-既然 LLM 是如此強大 💪，為何我們不用它檢查一個數字是否為奇數呢？
+既然 LLM 是如此強大 💪，為何我們不用它檢查一個數字是否為奇數呢？🫣
 
 靈感來自 [is-odd-ai](https://github.com/rhettlunn/is-odd-ai)，這個是 Python 的版本。
 
+![demo](https://imgur.com/jmtOIAK.png)
 ## 安裝
 
 ```bash
